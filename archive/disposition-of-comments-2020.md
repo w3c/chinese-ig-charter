@@ -9,8 +9,8 @@
 ## Responses
 
 * 16 supported the Charter as is
-* 1 did not support this Charter for the reasons cited in comments but is not raising a Formal Objection
-* 0 formal objection (with details in email)
+* 1 did not support this Charter for the reasons cited in comments but is not raising a Formal Objection. After discussion and clarifying change, this reveiwer is now satisfied with the charter.
+* 0 formal objection
 * 1 abstention
 
 ## Editorial changes
